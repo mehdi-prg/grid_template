@@ -29,6 +29,10 @@ body {
   display: grid;
   place-content: center;
 }
+.bento-grid{
+  max-width : 345px;
+  padding : 20px;
+}
 
 .xlg-text {
   font-size: 4rem;
